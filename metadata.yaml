@@ -1,0 +1,36 @@
+_repo: The-King-s-Assegai--A-Matabili-Story_32925
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wood, Stanley L.
+    alias: Wood, Stanley Llewellyn
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '4541'
+    url: http://www.gutenberg.org/2009/agents/4541
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitford, Bertram
+    birthdate: 1855
+    deathdate: 1914
+    gutenberg_agent_id: '32710'
+    url: http://www.gutenberg.org/2009/agents/32710
+description: ''
+gutenberg_issued: '2010-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ndebele (African people) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'South Africa -- Fiction'
+- !lcsh 'Zulu (African people) -- Fiction'
+title: 'The King''s Assegai: A Matabili Story'
+url: http://www.gutenberg.org/ebooks/32925
